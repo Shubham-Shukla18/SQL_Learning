@@ -1,2 +1,2 @@
 # SQL_Learning
-SQL Learning
+This repository contains SQL related learning
